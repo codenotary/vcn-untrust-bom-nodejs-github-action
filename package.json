@@ -1,0 +1,24 @@
+{
+  "name": "vcn-untrust-bom-nodejs-github-action",
+  "version": "1.0.0",
+  "description": "Sample Node.js project to be used with vcn-untrust-bom-nodejs-github-action",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codenotary/vcn-untrust-bom-nodejs-github-action.git"
+  },
+  "keywords": [
+    "VCN",
+    "CodeNotary",
+    "notarization"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codenotary/vcn-untrust-bom-nodejs-github-action/issues"
+  },
+  "homepage": "https://github.com/codenotary/vcn-untrust-bom-nodejs-github-action#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
